@@ -1,0 +1,12 @@
+ 	*** DATOS DE LA SUCURSAL***
+CODIGO 		NOMBRE 		CIUDAD 		TELEFONO 
+109273543		Aki		Quito  	938651529
+ ***INVENTARIO ALMACEN AKI ****
+NOMBRE 		PRECIO 		CANTIDAD 		ESTADO 
+Jabon para manos	3.5			3				bueno
+etergente	5.2			5				malo
+scobas	6.7			4				bueno
+rapeadores	5.6			3				bueno
+Numero total de productos ingresados :4
+Cantidad de productos ingresados :15
+El valor total de los productos :16.8
